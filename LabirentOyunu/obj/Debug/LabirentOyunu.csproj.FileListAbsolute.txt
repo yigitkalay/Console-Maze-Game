@@ -1,0 +1,12 @@
+C:\Users\ygtka\Desktop\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\ygtka\Desktop\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\ygtka\Desktop\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\ygtka\Desktop\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\ygtka\Desktop\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
+C:\Users\ygtka\Desktop\Programlama 2\Yeni klasör\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\ygtka\Desktop\Programlama 2\Yeni klasör\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\ygtka\Desktop\Programlama 2\Yeni klasör\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\ygtka\Desktop\Programlama 2\Yeni klasör\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csprojAssemblyReference.cache
+C:\Users\ygtka\Desktop\Programlama 2\Yeni klasör\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\ygtka\Desktop\Programlama 2\Yeni klasör\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
